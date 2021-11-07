@@ -1,0 +1,10 @@
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\bin\Debug\archivosdetextos.exe.config
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\bin\Debug\archivosdetextos.exe
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\bin\Debug\archivosdetextos.pdb
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\obj\Debug\archivosdetextos.csproj.AssemblyReference.cache
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\obj\Debug\archivosdetextos.FrmPluma.resources
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\obj\Debug\archivosdetextos.Properties.Resources.resources
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\obj\Debug\archivosdetextos.csproj.GenerateResource.cache
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\obj\Debug\archivosdetextos.csproj.CoreCompileInputs.cache
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\obj\Debug\archivosdetextos.exe
+C:\Users\Hector Peña\source\repos\archivosdetextos\archivosdetextos\obj\Debug\archivosdetextos.pdb
